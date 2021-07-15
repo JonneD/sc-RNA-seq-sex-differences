@@ -1,5 +1,5 @@
 ### 2021-04-16
-# Side project 46 patients - Visualize DEG
+# Project SCS 46 patients - Visualize DEG
 # Jonne Damen
 # R version 4.0.2 (2020-06-22) -- "Taking Off Again"
 # R Studio version 1.3.1056 "Water Lily" (5a4dee98, 2020-07-07) for macOS
