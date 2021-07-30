@@ -18,6 +18,9 @@ Create pseudo-bulk from single cell data (per cell cluster per patient).
 ## Visualize DEG
 Make dotplots showing average expression of differentially expressed genes.
 
+## Venn diagrams
+Make Venn diagrams of overlap between number of differentially expressed genes identified in the single cell analysis and number of differentially expressed genes identified in pseudo-bulk.
+
 ## Single cell to bulk
 Look up differentially expressed genes of single cell in bulk RNA seq data.
 
